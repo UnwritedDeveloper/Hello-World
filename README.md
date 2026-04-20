@@ -8,12 +8,12 @@ To install this project, you need to have Node.js and npm installed on your syst
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/UnwritedDeveloper/Hello-World.git
    ```
 
 2. Navigate into the project directory:
    ```sh
-   cd your-repo
+   cd Hello-World
    ```
 
 3. Install dependencies:
